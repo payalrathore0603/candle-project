@@ -1,0 +1,15 @@
+{
+  "products": [
+    { "id": "p1", "name": "100 gm Jar Candle", "category": "Jar Candles", "price": 200, "imageUrl": "https://placehold.co/400x400/E8D5C4/333333?text=100gm+Jar+Candle" },
+    { "id": "p2", "name": "200 gm Jar Candle", "category": "Jar Candles", "price": 350, "imageUrl": "https://placehold.co/400x400/E8D5C4/333333?text=200gm+Jar+Candle" },
+    { "id": "p3", "name": "300 gm Jar Candle", "category": "Jar Candles", "price": 500, "imageUrl": "https://placehold.co/400x400/E8D5C4/333333?text=300gm+Jar+Candle" },
+    { "id": "p4", "name": "Small Flower Candle", "category": "Shape Candles", "price": 30, "imageUrl": "https://placehold.co/400x400/FFF8E7/333333?text=Flower+Candle" },
+    { "id": "p5", "name": "Bubble Candle (Small)", "category": "Shape Candles", "price": 30, "imageUrl": "https://placehold.co/400x400/FFF8E7/333333?text=Bubble+(Small)" },
+    { "id": "p6", "name": "Bubble Candle (Large)", "category": "Shape Candles", "price": 70, "imageUrl": "https://placehold.co/400x400/FFF8E7/333333?text=Bubble+(Large)" },
+    { "id": "p7", "name": "Teddy Bear Candle", "category": "Shape Candles", "price": 90, "imageUrl": "https://placehold.co/400x400/FFF8E7/333333?text=Teddy+Bear+Candle" },
+    { "id": "p8", "name": "Sunflower Candle", "category": "Shape Candles", "price": 100, "imageUrl": "https://placehold.co/400x400/FFF8E7/333333?text=Sunflower+Candle" },
+    { "id": "p9", "name": "Stick Candles", "category": "Pillar Candles", "price": 150, "imageUrl": "https://placehold.co/400x400/E8D5C4/333333?text=Stick+Candles" },
+    { "id": "p10", "name": "Scented Rose Candle", "category": "Jar Candles", "price": 250, "imageUrl": "https://placehold.co/400x400/E8D5C4/333333?text=Rose+Candle" }
+  ],
+  "orders": []
+}

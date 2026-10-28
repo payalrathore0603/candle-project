@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* color */
+  --color-primary: #fef6f0; /* Page Background */
+  --color-secondary: #4a3b32; /* Main Text Color */
+  --color-accent: #a37b3a; /* Buttons & Highlights[cite: 2] */
+  --color-surface: #f7d6d0; /* Badges & Borders[cite: 2] */
+
+  /* Fonts */
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Poppins", system-ui, sans-serif;
+}
